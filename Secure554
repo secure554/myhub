@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am secure554 on github.
+  * I am tblac5 (https://keybase.io/tblac5) on keybase.
+  * I have a public key ASAKCBF8RbMq9T9BgrdinQmrW6P0_jLUdToa2O3iy9AzDwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200a08117c45b32af53f4182b7629d09ab5ba3f4fe32d4753a1ad8ede2cbd0330f0a",
+      "host": "keybase.io",
+      "kid": "01200a08117c45b32af53f4182b7629d09ab5ba3f4fe32d4753a1ad8ede2cbd0330f0a",
+      "uid": "975987f10abb71ff25d56c99faa6f219",
+      "username": "tblac5"
+    },
+    "merkle_root": {
+      "ctime": 1573936820,
+      "hash": "88306a1f8d9a438fcc7d39f20a8e4a70efa93b172051e0e23df6c52bf266c7b72653aa6263c005cf7a63431ab9909e1575bddcc7bb6389a61ad8a998aaf4be60",
+      "hash_meta": "06931bd8331941513b2a2d8d1cbaa2e034198bf69036866bd809db9259c5c9e8",
+      "seqno": 9863341
+    },
+    "service": {
+      "entropy": "IzI1/tKrepLnPTCA7hV4Yw8G",
+      "name": "github",
+      "username": "secure554"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1573936829,
+  "expire_in": 504576000,
+  "prev": "fdb349fce4e45546ae2b60e7e231e0fd6b602041a9faea998ecc9abea0ebb884",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASAKCBF8RbMq9T9BgrdinQmrW6P0_jLUdToa2O3iy9AzDwo](https://keybase.io/tblac5), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCggRfEWzKvU/QYK3Yp0Jq1uj9P4y1HU6Gtjt4svQMw8Kp3BheWxvYWTESpcCCMQg/bNJ/OTkVUauK2Dn4jHg/WtgIEGp+uqZjsyavqDruITEIL1DyOMDZdRIb0MvNMMnvh3ZI+ezmeUO1fDIxMbrDFQVAgHCo3NpZ8RA3KTZq7ukvv9is8WKDnVbX+phxuTuHDgZwfNCI/Wk+nKlwmLgxKj5RwiBkGZV25ctHwiSbRXSvEM3/DdwE47PA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEb/pWTOARm5evyP/hvmICz3nwnDQO2ahg5rFAG1C86ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tblac5
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tblac5
+```
